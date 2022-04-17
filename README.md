@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 - 🔭 I’m currently working on Noszvapp and Smart-Restaurant projects (..in progress, still privte &#128274;)
 - 🌱 I’m currently learning Blazor, Kotlin, UI/UX
 - 📫 How to reach me: [mczinke-dev@proton.me](mczinke-dev@proton.me)
