@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Marton Czinke
 <h1 align="center">Hi 👋, I'm Marton Czinke</h1>
----
+
 <h3 align="center">I'm junior developer from Hungary. Currently working at NI Hungary.</h3>
 
 <!--
