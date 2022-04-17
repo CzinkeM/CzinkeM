@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Marton Czinke
-
-I am junior software developer.
+<h1 align="center">Hi 👋, I'm Marton Czinke</h1>
+---
+<h3 align="center">I'm junior developer from Hungary. Currently working at NI Hungary.</h3>
 
 <!--
 **CzinkeM/CzinkeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Noszvapp and Smart-Restaurant projects (..in progress, still privte &#128274;)
-- 🌱 I’m currently learning .NET, Android Development, UI/UX
+- 🌱 I’m currently learning Blazor, Kotlin, UI/UX
 - 📫 How to reach me: [mczinke-dev@proton.me](mczinke-dev@proton.me)
 
 <h3 align="left">Languages and Tools:</h3>
