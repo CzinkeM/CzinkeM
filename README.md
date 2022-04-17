@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Marton Czinke
 <h1 align="center">Hi 👋, I'm Marton Czinke</h1>
 
-<h3 align="center">I'm junior developer from Hungary. Currently working at NI Hungary.</h3>
+<h3 align="center">I'm junior developer from Hungary. Currently working at NI Hungary and studying at University of Debrecen, Faculty of Informatics.</h3>
 
 <!--
 **CzinkeM/CzinkeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
