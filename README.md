@@ -1,4 +1,3 @@
-### Hi there 👋, I'm Marton Czinke
 <h1 align="center">Hi 👋, I'm Marton</h1>
 
 <h3 align="center">An Android developer</h3>
