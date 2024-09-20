@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Marton Czinke
 <h1 align="center">Hi 👋, I'm Marton</h1>
 
-<h3 align="center">I'm android developer from Hungary.</h3>
+<h3 align="center">An Android developer</h3>
 
 <!--
 **CzinkeM/CzinkeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
